@@ -1,0 +1,16 @@
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\bin\Debug\netcoreapp3.1\POO2_Quiz2.exe
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\bin\Debug\netcoreapp3.1\POO2_Quiz2.deps.json
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\bin\Debug\netcoreapp3.1\POO2_Quiz2.runtimeconfig.json
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\bin\Debug\netcoreapp3.1\POO2_Quiz2.runtimeconfig.dev.json
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\bin\Debug\netcoreapp3.1\POO2_Quiz2.dll
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\bin\Debug\netcoreapp3.1\POO2_Quiz2.pdb
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\obj\Debug\netcoreapp3.1\POO2_Quiz2.csproj.AssemblyReference.cache
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\obj\Debug\netcoreapp3.1\POO2_Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\obj\Debug\netcoreapp3.1\POO2_Quiz2.AssemblyInfoInputs.cache
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\obj\Debug\netcoreapp3.1\POO2_Quiz2.AssemblyInfo.cs
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\obj\Debug\netcoreapp3.1\POO2_Quiz2.csproj.CoreCompileInputs.cache
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\obj\Debug\netcoreapp3.1\POO2_Quiz2.dll
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\obj\Debug\netcoreapp3.1\POO2_Quiz2.pdb
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\obj\Debug\netcoreapp3.1\POO2_Quiz2.genruntimeconfig.cache
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\obj\Debug\netcoreapp3.1\POO2_Quiz2.Form1.resources
+C:\Users\SCPG2021\source\repos\POO2_Quiz2\POO2_Quiz2\obj\Debug\netcoreapp3.1\POO2_Quiz2.csproj.GenerateResource.cache
